@@ -1,0 +1,12 @@
+site_name: RCJ Soccer 2024
+theme:
+  name: material
+  palette:
+    primary: green
+
+nav:
+  - Home: index.md
+  - Code Submission: "code-submission.md"
+  - Submission check: "submission-check.md"
+  - SoccerSim World Championship 2024: "world-competition.md"
+
