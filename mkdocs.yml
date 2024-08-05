@@ -9,4 +9,7 @@ nav:
   - Code Submission: "code-submission.md"
   - Submission check: "submission-check.md"
   - SoccerSim World Championship 2024: "world-competition.md"
+  - SoccerSim World Championship 2024 results:
+    - Team Description Papers: "results/tdps.md"
+    - Games: "results/games.md"
 
